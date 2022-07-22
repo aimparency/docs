@@ -1,0 +1,12 @@
+[book]
+authors = ["Felix Niemeyer"]
+language = "en"
+multilingual = false
+src = "src"
+title = "summits - towards aimparency"
+
+[output.html]
+mathjax-support = true
+
+[preprocessor.bib]
+bibliography = "my_biblio.bib"
